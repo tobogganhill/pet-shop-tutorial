@@ -1,0 +1,58 @@
+[
+	{
+		"id": 0,
+		"name": "Willy Wonka",
+		"picture": "images/scottish-terrier.jpeg",
+		"age": 3,
+		"breed": "Scottish Terrier",
+		"location": "Toronto"
+	},
+	{
+		"id": 2,
+		"name": "Baby Winston",
+		"picture": "images/french-bulldog.jpeg",
+		"age": 2,
+		"breed": "French Bulldog",
+		"location": "Pickering"
+	},
+	{
+		"id": 3,
+		"name": "Sally",
+		"picture": "images/boxer.jpeg",
+		"age": 2,
+		"breed": "Boxer",
+		"location": "Oshawa"
+	},
+	{
+		"id": 6,
+		"name": "Goldie",
+		"picture": "images/golden-retriever.jpeg",
+		"age": 3,
+		"breed": "Golden Retriever",
+		"location": "Toronto"
+	},
+	{
+		"id": 10,
+		"name": "Sammy",
+		"picture": "images/sammy.jpg",
+		"age": 1,
+		"breed": "Golden Retriever",
+		"location": "Toronto"
+	},
+	{
+		"id": 11,
+		"name": "Inukshuk",
+		"picture": "images/eskimo.jpg",
+		"age": 3,
+		"breed": "Eskimo",
+		"location": "Windsor"
+	},
+	{
+		"id": 12,
+		"name": "Bear",
+		"picture": "images/bear.jpg",
+		"age": 3,
+		"breed": "German Shepherd",
+		"location": "Kingston"
+	}
+]
