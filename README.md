@@ -1,3 +1,3 @@
 # pet-shop-tutorial 
 
-![GitHub Logo](/images/logo.png)
+!(/box-img-sm.png)
