@@ -1,3 +1,3 @@
 # pet-shop-tutorial 
 
-!(/box-img-lg.png)
+!(https://github.com/tobogganhill/pet-shop-tutorial/blob/master/box-img-lg.png)
